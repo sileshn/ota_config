@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": ,
-      "filename": "",
-      "id": "",
+      "datetime": 1778813798,
+      "filename": "lineage-rev-18.1-20260515-UNOFFICIAL-meliusltexx.zip",
+      "id": "3c515743335a405d8d2a2bd18b4214d2585b46fdc405429217f1274d6272054d",
       "romtype": "UNOFFICIAL",
-      "size": ,
-      "url": "",
+      "size": 507140148,
+      "url": "https://sourceforge.net/projects/samsungmega6-3/files/ROMS/LineageOS-Revived/18.1/lineage-rev-18.1-20260515-UNOFFICIAL-meliusltexx.zip",
       "version": "18.1"
     }
   ]
