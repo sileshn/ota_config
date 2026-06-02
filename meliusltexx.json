@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1778813798,
-      "filename": "lineage-rev-18.1-20260515-UNOFFICIAL-meliusltexx.zip",
-      "id": "3c515743335a405d8d2a2bd18b4214d2585b46fdc405429217f1274d6272054d",
+      "datetime": 1780431478,
+      "filename": "lineage-rev-18.1-20260602-UNOFFICIAL-meliusltexx.zip",
+      "id": "718613fc7af7375baaa3b75fe2f8f6eb182df31b268fc39dac1a1eee6d550f0f",
       "romtype": "UNOFFICIAL",
-      "size": 507140148,
-      "url": "https://sourceforge.net/projects/samsungmega6-3/files/ROMS/LineageOS-Revived/18.1/lineage-rev-18.1-20260515-UNOFFICIAL-meliusltexx.zip",
+      "size": 507202619,
+      "url": "https://sourceforge.net/projects/samsungmega6-3/files/ROMS/LineageOS-Revived/18.1/lineage-rev-18.1-20260602-UNOFFICIAL-meliusltexx.zip",
       "version": "18.1"
     }
   ]
